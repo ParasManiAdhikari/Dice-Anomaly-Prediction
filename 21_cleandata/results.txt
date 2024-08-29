@@ -1,0 +1,66 @@
+STILLDB_4 Maximum and Minimum values:
+ax: max = 0.77832, min = 0.679443
+ay: max = -0.623779, min = -0.698975
+az: max = 0.332031, min = 0.286621
+gx: max = -1.954198, min = -4.290076
+gy: max = -1.198473, min = -2.053435
+gz: max = -0.59542, min = -1.564886
+
+STILL_1 Maximum and Minimum values:
+ax: max = -0.212646, min = -0.263672
+ay: max = -0.002197, min = -0.049561
+az: max = 1.073486, min = 0.846436
+gx: max = -1.954198, min = -6.290076
+gy: max = 0.183206, min = -4.068702
+gz: max = -0.358779, min = -1.984733
+
+STILL_2 Maximum and Minimum values:
+ax: max = -0.171875, min = -0.243896
+ay: max = 0.090088, min = 0.033203
+az: max = 1.010498, min = 0.87915
+gx: max = -1.954198, min = -4.541985
+gy: max = 0.19084, min = -2.580153
+gz: max = -0.717557, min = -1.48855
+
+STILL_3 Maximum and Minimum values:
+ax: max = -0.418945, min = -0.472656
+ay: max = -0.82959, min = -0.912354
+az: max = -0.187988, min = -0.223877
+gx: max = -1.954198, min = -4.526718
+gy: max = -0.954198, min = -2.137405
+gz: max = -0.374046, min = -1.931298
+
+STILL_5 Maximum and Minimum values:
+ax: max = 0.814453, min = 0.741699
+ay: max = -0.462891, min = -0.506104
+az: max = -0.535889, min = -0.596924
+gx: max = -1.954198, min = -4.328244
+gy: max = -1.007634, min = -2.175573
+gz: max = -0.465649, min = -1.78626
+
+STILL_6 Maximum and Minimum values:
+ax: max = -0.475098, min = -0.631104
+ay: max = 0.299805, min = 0.19458
+az: max = 0.919189, min = 0.540771
+gx: max = -1.954198, min = -4.847328
+gy: max = -0.320611, min = -2.503817
+gz: max = -0.351145, min = -1.916031
+
+
+INTERVALL
+
+# Extremes
+ax: max = 0.814453 (STILL_5),       min = -0.631104 (STILL_6)
+ay: max = 0.299805 (STILL_6),       min = -0.912354 (STILL_3)
+az: max = 1.073486 (STILL_1),       min = -0.596924 (STILL_5)
+gx: max = -1.954198 (all ),         min = -6.290076 (STILL_1)
+gy: max = 0.19084 (STILL_2),        min = -4.068702 (STILL_1)
+gz: max = -0.351145 (STILL_6),      min = -1.984733 (STILL_1)
+
+# Average
+ax: [0.05237, -0.03170]
+ay: [-0.25476, -0.32320]
+az: [0.43522, 0.28870]
+gx: [-1.95420, -4.80407]
+gy: [-0.51781, -2.58651]
+gz: [-0.47710, -1.77863]

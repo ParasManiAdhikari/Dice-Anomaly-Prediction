@@ -1,0 +1,24 @@
+{'n': 24009, 'timestamp': '16-04-2024 14:17:52:10000', 'ax': 0.071045, 'ay': -0.007568, 'az': 0.967041, 'gx': -3.824427, 'gy': -1.580153, 'gz': -1.137405}
+{'n': 24010, 'timestamp': '16-04-2024 14:17:52:10001', 'ax': 0.074463, 'ay': -0.012695, 'az': 0.962646, 'gx': -3.80916, 'gy': -1.610687, 'gz': -1.229008}
+{'n': 24011, 'timestamp': '16-04-2024 14:17:52:10002', 'ax': 0.071777, 'ay': -0.011963, 'az': 0.980469, 'gx': -3.900763, 'gy': -1.625954, 'gz': -1.236641}
+{'n': 24012, 'timestamp': '16-04-2024 14:17:52:10003', 'ax': 0.071533, 'ay': -0.009033, 'az': 0.989258, 'gx': -3.824427, 'gy': -1.717557, 'gz': -1.19084}
+{'n': 24013, 'timestamp': '16-04-2024 14:17:52:10004', 'ax': 0.067139, 'ay': -0.011719, 'az': 0.965088, 'gx': -3.938931, 'gy': -1.679389, 'gz': -1.229008}
+
+test 
+
+n INTEGER,
+    timestamp TEXT PRIMARY KEY,
+    ax REAL,
+    ay REAL,
+    az REAL,
+    gx REAL,
+    gy REAL,
+    gz REAL,
+    label TEXT
+
+
+3 sec = 294 data points
+
+
+in wiki
+show feature importance for random forest , among ax ay etc which features are most important.

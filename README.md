@@ -2,6 +2,8 @@
 
 ## Team B
 
+## Main File is MVP.py
+
 ## DOD
 The dice prediction algorithm, designed to detect whether a die is rolling normally or anomalously, is fully functional with sufficient testing. Additionally, the documentation on the wiki has been thoroughly updated.
 
